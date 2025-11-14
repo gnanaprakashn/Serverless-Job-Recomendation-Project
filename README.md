@@ -235,7 +235,7 @@ This is the type of system used for notification workflows, automation, and micr
 # 👤 Author
 
 **Gnana Prakash N**
-Aspiring Data Engineer
+Data Engineer
 GitHub: [gnanaprakashn](https://github.com/gnanaprakashn)
 
 ---
